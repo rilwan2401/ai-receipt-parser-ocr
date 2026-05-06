@@ -59,7 +59,7 @@ receipt-parser/
 ## Clone Repository
 
 ```bash id="g0pllh"
-git clone <https://github.com/rilwan2401/ai-receipt-parser-ocr.git>
+git clone https://github.com/rilwan2401/ai-receipt-parser-ocr.git
 cd receipt-parser
 ```
 
